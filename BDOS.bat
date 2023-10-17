@@ -1,3 +1,8 @@
+hey,rename this file with BSOD.bat,🥲
+
+
+
+
 @echo off
 ET i=0
 SET "NomeProcesso=DaMonki.exe"
